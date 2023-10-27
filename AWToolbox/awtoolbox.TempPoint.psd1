@@ -13,7 +13,7 @@
 #>
 @{
 	RootModule = 'AWToolbox.psm1'
-	ModuleVersion = '1.0.1'
+	ModuleVersion = '1.0.0'
 	GUID = '3c7050a1-115b-4153-ae0d-dab2e78c7567'
 	Author = 'Andreas Wilmer'
 	CompanyName = 'AWILMER'
